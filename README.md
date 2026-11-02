@@ -1,6 +1,6 @@
 GBDT–SHAP Framework for Co-Optimized Hydrothermal Carbonization
 
-Datasets, training/evaluation scripts, and deployment code accompanying the manuscript submitted to *Bioresource Technology* (manuscript ID: **BITE-D-26-09605**).
+Datasets, training/evaluation scripts, and deployment code accompanying the manuscript submitted to *Bioresource Technology*.
 
 Three independent Gradient Boosting Decision Tree (GBDT) models — one per product stream — were trained on **1,062 literature records** to predict:
 
