@@ -1,6 +1,6 @@
 GBDT–SHAP Framework for Co-Optimized Hydrothermal Carbonization
 
-Datasets, training/evaluation scripts, and deployment code accompanying the manuscript submitted to *Bioresource Technology*.
+Datasets, training/evaluation scripts, and deployment code accompanying the manuscript submitted to *Bioresource Technology*(Temporal decoupling constrains three-product trade-offs in hydrothermal carbonization: A data-driven framework for hydrochar, aqueous-phase nitrogen, and carbon dots).
 
 Three independent Gradient Boosting Decision Tree (GBDT) models — one per product stream — were trained on **1,062 literature records** to predict:
 
